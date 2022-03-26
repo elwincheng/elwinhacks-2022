@@ -1,5 +1,6 @@
 {
   "expo": {
+		"owner": "elwinthishackathon",
     "name": "elwinhacks",
     "slug": "elwinhacks",
     "version": "1.0.0",
